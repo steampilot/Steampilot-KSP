@@ -9,6 +9,9 @@ Included in this folder:
 	to BlueDog sound clips stored under Steampilot/Sounds/BlueDog.
 - Steampilot_BDB_StockFuel.cfg
 	Converts BlueDog liquid engines to stock LiquidFuel/Oxidizer.
+- Steampilot_BDB_Graceful.cfg
+	Makes partial BlueDog installs load gracefully by removing B9 subtype
+	upgrade requirements on existing BlueDog parts.
 
 Requirements:
 - RocketSoundEnhancement
